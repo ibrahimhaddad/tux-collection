@@ -1,7 +1,7 @@
 ## Happy 35th Anniversary, Linux!
 In celebrations of Linux's 35th anniversary, releasing a collection of 10,000 unique images of Tux. 
 
-Don't reuse that same Tux PNG. Here are 10,000 clean ones, free, for your presentations, docs, meetup slides, stickers, etc.
+Don't reuse that same Tux PNG. Here are 10,000 clean ones, free, for your presentations, event, docs, meetup slides, stickers, etc.
 
 Variations include different:
 - Background

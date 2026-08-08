@@ -1,4 +1,4 @@
-**Happy 35th Anniversary, Linux!**
+## Happy 35th Anniversary, Linux!
 
 In celebrations of Linux's 35th anniversary, releasing a collection of 10,000 unique images of Tux, the Linus mascot. 
 
@@ -19,7 +19,10 @@ Variations include different:
 - Celebrations 
 - etc.
 
-
-The artwork is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
 Have fun with it!
+
+## Credits and attribution
+
+- Tux was created by Larry Ewing in 1996 using GIMP
+- Design work: Aline Nassar (https://www.linkedin.com/in/aline-nassar-59ba4a4a/)
+- Collection assembled by Ibrahim Haddad using HashLips Art Engine (https://github.com/hashlips/hashlips_art_engine)

@@ -13,3 +13,6 @@ Have fun with it!
 ## License
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). This work is dedicated to the public domain. 
 The CC0 dedication covers the artwork created for this collection. 
+
+## Thanks for visiting!
+If you like these images, consider giving the repo a star. Thanks! 

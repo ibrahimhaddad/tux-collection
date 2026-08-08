@@ -20,6 +20,6 @@ Variations include different:
 - etc.
 
 
-The artwork is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International: [https://creativecommons.org/licenses/by-nc-sa/4.0/].
+The artwork is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Have fun with it!

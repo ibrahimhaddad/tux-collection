@@ -7,10 +7,9 @@ Have fun with it!
 
 ## Credits and attribution
 - Tux was created by Larry Ewing in 1996 using GIMP (lewing@isc.tamu.edu)
-- Design work: Aline Nassar (https://www.linkedin.com/in/aline-nassar-59ba4a4a/)
-- Collection assembled by Ibrahim Haddad using HashLips Art Engine (https://github.com/hashlips/hashlips_art_engine), MIT licensed
+- Design work: [Aline Nassar](https://www.linkedin.com/in/aline-nassar-59ba4a4a/)
+- Collection assembled by [Ibrahim Haddad](https://www.ibrahimatlinux.com) using [HashLips Art Engine](https://github.com/hashlips/hashlips_art_engine) (MIT licensed)
 
 ## License
-CC0 1.0 Universal. This work is dedicated to the public domain. https://creativecommons.org/publicdomain/zero/1.0/
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). This work is dedicated to the public domain. 
 The CC0 dedication covers the artwork created for this collection. 
-

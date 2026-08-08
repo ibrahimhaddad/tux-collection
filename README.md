@@ -2,7 +2,7 @@
 
 In celebrations of Linux's 35th anniversary, releasing a collection of 10,000 unique images of Tux, the Linus mascot. 
 
-10,000!
+Don't reuse that same (blurry) Tux PNG. Here are 10,000 clean ones, free, for your presentations, docs, meetup slides, stickers, etc.
 
 Variations include different:
 - Background
